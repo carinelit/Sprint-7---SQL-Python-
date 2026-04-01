@@ -1,0 +1,5 @@
+Pandas
+Plotly express 
+Matplotilb 
+Seaborn 
+Scipy 
